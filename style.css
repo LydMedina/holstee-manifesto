@@ -1,0 +1,137 @@
+body {
+    color: #fff;
+	background: #000;
+	font-family: 'Merriweather', serif;     
+    text-transform: uppercase; 
+}
+
+.wrapper {
+	margin: 0px auto;
+	width: 450px;
+}
+
+span {
+    font-size: 25px;
+	height: 25px;   
+	}
+
+p {
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: justify;
+}
+
+.life {
+    color: #bfa75e;
+	float: right;
+	font-size: 98px;
+	height: 80px;
+    line-height: 1;
+    margin-bottom: 3px;   
+}
+
+.x-small {
+	font-size: 10px;
+	float: right; 
+	height: 10px;
+	text-align: justify;
+}
+
+.small {
+	font-size: 12px;
+	text-align: left;
+} 
+
+.small-md {
+	font-size: 15px;
+	float: right;
+	padding-top: 1px;
+}
+
+.med-1 {
+    color: #f2f2f2;
+	font-size: 18px;       
+    line-height: 1.5; 
+}
+
+.med-2 {
+    color: #d9c484;
+	font-size: 20px;    
+    }
+
+.large {
+	color: #d9cdb8;
+	float: left;
+	font-size: 26px;	
+	margin-right: 3px;
+	padding-top: 22px;
+	
+	}
+
+.section-1 {
+	float: left;
+	height: 175px;
+	text-align: justify;
+}
+
+.section-2 {
+	color: #bfa26b;
+	font-size: 19.5px;
+	float: right;
+	height: 25px;
+}
+
+.section-3 {
+	float: right;
+	height: 29px;
+	margin-left: 212px;
+}
+
+
+.left {
+	color: #f2f2f2;
+	float: left;
+	font-size: 18px;	
+	margin-top: 0px;
+	
+}
+
+.right {
+	color: #bfa26b;
+	font-size: 25px;
+	float: right; 
+	text-align: justify;
+	line-height: 1;
+}
+
+.section-4 {
+	float: left;
+	height: 180px;
+}
+
+.left-5 {
+    font-size: 18px;
+	float:left;
+}
+
+.x-large {
+	color: #bfa25e;
+	font-size: 41px;
+	float: right;
+	line-height: 1;
+}
+
+.section-5 {
+	float: right;
+	width: 20px;
+ }
+
+.section-6 {
+	font-size: 24px;
+	float: left;
+	height: 61px;
+	padding-top: 20px;
+	width: 294px;
+	
+
+}
